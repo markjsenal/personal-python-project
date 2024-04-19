@@ -1,0 +1,6 @@
+pytest
+openai
+dotenv
+httpx
+respx
+datetime
